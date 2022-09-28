@@ -1,0 +1,16 @@
+body{
+	background: url(../img/bg.jpg);
+}
+caption{
+	font-size: 30px;
+}
+table{
+	margin-top: 380px;
+	position: relative;
+	border: #F0F8FF solid 1px;
+	color: #F0F8FF;
+}
+tr td{
+	background-color: black;
+	font-size: 25px;
+}

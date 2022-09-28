@@ -1,0 +1,16 @@
+body{
+	background: url(../img/bg.jpg);
+}
+div ul{
+	color: #F0F8FF;
+	font-size: 25px;
+	width: 400px;
+	height: 215px;
+	padding-left: 150px;
+	padding-top: 100px;
+	margin-top: 380px;
+	margin-left: 600px;
+	list-style: none;
+	background: url(../img/us-bg.jpg);
+	/* border: #FF0000 solid 1px; */
+}
